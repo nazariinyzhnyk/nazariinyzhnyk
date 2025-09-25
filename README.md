@@ -8,8 +8,8 @@ Also, a proud father of a boston terrier 🐶, loving husband ❤️‍🔥 and 
 
 My current interests are:
 
-- classic ml applications
-- agents development
+- "classic" ML applications
+- NLP, LLMs and agents development
 - advanced data analysis
 - RL
 - microservices, scaling and all the shiny CI/CD stuff
