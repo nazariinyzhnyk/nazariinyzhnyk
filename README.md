@@ -4,6 +4,7 @@ I'm *Nazar*,
 
 💻 Data Scientist, ML Engineer, Software Developer and a Tech Bro
 
+also, proud father of a boston terrier 🐶, loving husband ❤️‍🔥 and a guy that loves to talk about technology and life
 
 My current interests are:
 
@@ -12,10 +13,11 @@ My current interests are:
 - advanced data analysis
 - RL
 - microservices, scaling and all the shiny CI/CD stuff
+- edc, outdoor, pizza and beer
 
 I'm a huge believer of FOSS and currenly on a path to DIY projects that I need daily.
 
-I believe in a clean code and a clean architecture. 
+I evalngelize clean code and clean architecture and try to make everything I touch better. 
 
 
 ## Contacts
