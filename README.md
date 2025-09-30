@@ -25,7 +25,8 @@ I evalngelize clean code and clean architecture and strive to make everything I 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/nazariinyzhnyk/)
 [![Mail](https://img.shields.io/badge/-Email-grey?style=flat-square&logo=gmail&logoColor=red)](mailto:nazar.nyzhnyk@gmail.com)
 
-
+<!--
 ## Some stats 
 
 ![Nazarii’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nazariinyzhnyk&show_icons=true&theme=tokyonight)
+-->
